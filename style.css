@@ -1,0 +1,33 @@
+.logo-img-container {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  overflow: hidden;
+  position: relative;
+}
+
+.logo-img {
+  width: 50px;
+  position: absolute;
+  top: -7px;
+  left: -7px;
+}
+
+.card > img {
+  height: 225px;
+}
+
+.btn-link {
+  text-decoration: none !important;
+  color: #6c757d !important;
+}
+
+.btn-link:hover {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.btn-link:active {
+  text-decoration: none;
+  color: white;
+}
